@@ -2,6 +2,6 @@ this is the first tryment of git
 this is the first tryment of git
 this is the first tryment of git
 this is the first tryment of git
-this is the first tryment of git
+this is the first tryment of git this is hot-fix
 this is the first tryment of git
 what the fuck !
