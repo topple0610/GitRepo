@@ -4,4 +4,5 @@ this is the first tryment of git
 this is the first tryment of git
 this is the first tryment of git
 this is the first tryment of git  this is master
+this is the first tryment of git this is hot-fix
 what the fuck !
